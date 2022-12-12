@@ -26,7 +26,7 @@ import Combine_3Components.KCV;
 
 
 	                System.out.println("--------------------------------------------------------");
-	                System.out.println("    2 Component key Combine Tool for Kakaobank    ");
+	                System.out.println("    Bruce.lee   2 Component key Combine Tool   ");
 	                System.out.println("--------------------------------------------------------");
 
 			Scanner sc = new Scanner(System.in);
